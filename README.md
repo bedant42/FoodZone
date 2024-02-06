@@ -1,7 +1,7 @@
-# React PRACTICE PROJECT
+# React PROJECT
 
-## Project 1 - Foody Zone
+## Project - Foody Zone
 
 Project that we are going to build in this complete practice course
 
-- Project 4 - FOODY ZONE
+- Project - FOODY ZONE
